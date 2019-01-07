@@ -1,0 +1,11 @@
+*.jpg
+*.csv
+*.npy
+*.h5
+models
+fastai
+output
+input
+tmp
+test
+train
