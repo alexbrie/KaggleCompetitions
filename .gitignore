@@ -1,4 +1,5 @@
 *.jpg
+nohup*
 *.csv
 *.npy
 *.h5
